@@ -1,0 +1,12 @@
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:paddingBottom="16dp"
+        android:paddingLeft="8dp"
+        android:layout_height="wrap_content"
+        android:text="Food stuff"
+        android:textColor="#FF00FF"
+        android:textSize="24sp"
+        android:textStyle="bold" />

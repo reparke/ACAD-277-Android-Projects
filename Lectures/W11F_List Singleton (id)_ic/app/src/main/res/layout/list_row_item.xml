@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Coffee Shop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_name"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:textColor="#000000" />
+
+    <TextView
+        android:text="City"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_city"
+        android:textColor="#0000FF"
+        android:textStyle="normal|italic"
+        android:layout_alignBottom="@+id/text_name"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

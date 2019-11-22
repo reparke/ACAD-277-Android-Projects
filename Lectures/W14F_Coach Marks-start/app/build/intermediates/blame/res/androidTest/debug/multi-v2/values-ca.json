@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

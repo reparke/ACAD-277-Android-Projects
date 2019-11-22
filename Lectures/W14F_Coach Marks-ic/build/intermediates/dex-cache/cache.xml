@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W14F_Coach Marks-start\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_672914f5f75ed4dce0b2c085e6423687d0ddf92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W14F_Coach Marks-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W14F_Coach Marks-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_108b7c959a59a7396e87464e399987b92bc6057f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W14F_Coach Marks-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W14F_Coach Marks-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_6f2b8638f9dfecbc75492baf4e56ad3ed3f14bb4.jar" />
+    </item>
+
+</items>

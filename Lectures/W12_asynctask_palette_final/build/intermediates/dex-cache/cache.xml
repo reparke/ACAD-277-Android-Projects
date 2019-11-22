@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_846204c423f9d98261f4d1f7de50b6ad5628710d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_c4f184ee0dc52f29d7f1da9973c2d7db706a78b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_f5283536191648d874bac2a4a0e90de1e1c3cb51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_359281772412980714de86ec6cf7b28c2c9229ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_a9835aeeb5141c9540beb609e008aabe87fd7499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7b6aebfe347153b327056a3a0171734629c90dfd">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.1.0_b26079edc5ee4d4233d715ab7366999c6caf7512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_4585ca50b0356e893bc00c6494ab7c9076eddf0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W12_asynctask_palette_final\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_16e9623a755756e747f3c9ce3003c71358e7ed4b.jar" />
+    </item>
+
+</items>

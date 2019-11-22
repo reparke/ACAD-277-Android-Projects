@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 04 18:11:34 PST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\R\\Dropbox (uscItp)\\_ACAD 277\\_Projects\\_Lectures\\W10-Intents_MVC_final\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

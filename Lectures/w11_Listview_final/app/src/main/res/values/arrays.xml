@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_food">
+        <item>pancakes</item>
+        <item>eggs</item>
+        <item>bacon</item>
+        <item>mimosas</item>
+        <item>sushi</item>
+        <item>pancakes</item>
+        <item>eggs</item>
+        <item>bacon</item>
+        <item>mimosas</item>
+        <item>sushi</item>
+        <item>pancakes</item>
+        <item>eggs</item>
+        <item>bacon</item>
+        <item>mimosas</item>
+        <item>sushi</item>
+        <item>pancakes</item>
+        <item>eggs</item>
+        <item>bacon</item>
+        <item>mimosas</item>
+        <item>sushi</item>
+    </string-array>
+</resources>

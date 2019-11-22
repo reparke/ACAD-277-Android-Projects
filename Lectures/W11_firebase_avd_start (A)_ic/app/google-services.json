@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1071422754681",
+    "firebase_url": "https://itp341-advanced-final.firebaseio.com",
+    "project_id": "itp341-advanced-final",
+    "storage_bucket": "itp341-advanced-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071422754681:android:6899598546b4a862",
+        "android_client_info": {
+          "package_name": "itp341.firebase.advanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071422754681-opkgso1bc25kno0qq5qgkiba2hoep833.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0tB8e7DaEGKkAgiskHHcGiIMsLAXykQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

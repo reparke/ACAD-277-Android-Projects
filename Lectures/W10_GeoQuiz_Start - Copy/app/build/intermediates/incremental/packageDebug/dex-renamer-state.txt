@@ -1,0 +1,4 @@
+#Thu Feb 09 00:08:47 PST 2017
+base.0=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W6_GeoQuiz_Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W6_GeoQuiz_Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

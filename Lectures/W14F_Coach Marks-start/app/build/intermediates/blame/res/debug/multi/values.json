@@ -1,0 +1,524 @@
+[
+    {
+        "outputFile": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 54,
+                    "endColumn": 19,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 55,
+                        "endColumn": 19,
+                        "endOffset": 1383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 46,
+                    "endOffset": 1374
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1379,
+                    "endColumn": 65,
+                    "endOffset": 1440
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 65,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1445,
+                    "endColumn": 52,
+                    "endOffset": 1493
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1498,
+                    "endColumn": 57,
+                    "endOffset": 1551
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1556,
+                    "endColumn": 55,
+                    "endOffset": 1607
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1612,
+                    "endColumn": 45,
+                    "endOffset": 1653
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 45,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1658,
+                    "endColumn": 52,
+                    "endOffset": 1706
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 1711,
+                    "endColumn": 48,
+                    "endOffset": 1755
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endColumn": 80,
+                    "endOffset": 1836
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 80,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1841,
+                    "endColumn": 114,
+                    "endOffset": 1951
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 114,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 1956,
+                    "endLine": 66,
+                    "endColumn": 64,
+                    "endOffset": 2114
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endLine": 26,
+                        "endColumn": 64,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2119,
+                    "endColumn": 95,
+                    "endOffset": 2210
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 95,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2215,
+                    "endColumn": 70,
+                    "endOffset": 2281
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 70,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2286,
+                    "endColumn": 52,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 41,
+                    "endOffset": 2376
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 41,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2381,
+                    "endColumn": 49,
+                    "endOffset": 2426
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 49,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2431,
+                    "endColumn": 43,
+                    "endOffset": 2470
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 43,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2475,
+                    "endColumn": 47,
+                    "endOffset": 2518
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 47,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2523,
+                    "endColumn": 48,
+                    "endOffset": 2567
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 48,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2572,
+                    "endColumn": 45,
+                    "endOffset": 2613
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 45,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2618,
+                    "endColumn": 47,
+                    "endOffset": 2661
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 47,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2666,
+                    "endColumn": 43,
+                    "endOffset": 2705
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 43,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2710,
+                    "endColumn": 45,
+                    "endOffset": 2751
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 45,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2756,
+                    "endColumn": 49,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 49,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 119,
+                    "endOffset": 2921
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 119,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2926,
+                    "endColumn": 41,
+                    "endOffset": 2963
+                },
+                "from": {
+                    "file": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 41,
+                        "endOffset": 563
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coach Marks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- detail_fragment-->
+    <string name="label_name">Shop Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_website">Website</string>
+    <string name="label_address">Address</string>
+    <string name="label_city">City</string>
+    <string name="label_state">State</string>
+    <string name="label_zip">Zip</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_save">Save</string>
+    <string name="label_welcome">Welcome to Your Favorite Coffee Shops! Look through the list or add a new one</string>
+    <string name="label_add">Add</string>
+    <string name="label_delete">Delete</string>
+
+    <!-- Coach Marks -->
+    <string name="coach_mark_add_listing">Tap up top to add new listing</string>
+    <string name="coach_mark_welcome">Welcome to CoffeeNotes!</string>
+    <string name="coach_mark_instructions">CoffeeNotes lets you track your favorite coffee shops,
+        			find directions, and review yours experience</string>
+    <string name="coach_mark_view_listing">You can tap a item to view the shop listing</string>
+    <string name="coach_mark_edit_listing">or you can tap and hold on a item to edit or delete a  listing</string>
+
+
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="itp341.week7_review_frag_final.MainActivity">
+
+    <TextView
+        android:id="@+id/textVoteForShiba"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_vote_for_shiba_idol"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textNumVotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:text="0" />
+
+
+    <RadioGroup
+        android:id="@+id/radioGroupVote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textVoteForShiba"
+
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioPirate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/label_pirate"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/radioWolf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/label_wolf"
+            android:textSize="16sp" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/editSpeak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textVoteForShiba"
+        android:layout_marginLeft="8dp"
+        android:layout_toEndOf="@id/radioGroupVote"
+        android:hint="@string/label_what_does_he_say"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textVotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@id/textNumVotes"
+        android:text="@string/label_votes" />
+
+
+
+
+
+    <ImageView
+        android:padding="0dp"
+        android:layout_margin="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/image"
+        android:layout_below="@id/editSpeak"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:id="@+id/textSpeak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="32dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FF0000"
+        android:textSize="40sp" />
+</RelativeLayout>

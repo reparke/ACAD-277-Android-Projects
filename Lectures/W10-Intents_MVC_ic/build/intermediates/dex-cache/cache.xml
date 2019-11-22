@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_ba75be9c786d5de3e1d294c907303cc5d1d6cfc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_cc47363be4b1479315bfd2a8d81d6f7ef64fa94d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_8fb114936a059bff042118fd7ca650cca413423a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_5747e114b9c1863ba9ee57a0bc4a9e72bc4c9b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_0fdfa9da9f67cbe583c1f8fd881669c9d6a4ee9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_f6dea35e6ae8c510b60479550ea83603e86d55e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8d5a3e61d67c3294d44b2127449693d4863b77be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_302d8926ca40c44939b5b94d4bb9f6dc4a5b2cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_3f6364d2fcb3def88bdf2a95209964c9c28c4c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ACAD 277\_Projects\_Lectures\W10-Intents_MVC\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_094edf8ceaeb80dad6841699b7af386afc22d530.jar" />
+    </item>
+
+</items>

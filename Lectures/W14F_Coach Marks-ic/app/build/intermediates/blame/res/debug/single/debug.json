@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_coffee_small.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_coffee_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_coffee_add.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_coffee_add.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_list_coffee_half_filled.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_list_coffee_half_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_bean_empty.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\coffee_bean_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_coffee_add.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-hdpi\\ic_action_coffee_add.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_bean_small_filled.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\coffee_bean_small_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_coffee.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_coffee.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_bean_small_empty.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\coffee_bean_small_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_coffee_add.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-mdpi\\ic_action_coffee_add.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_bean_filled.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\coffee_bean_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_detail_fragment.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\layout\\detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_cursor_row.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\layout\\cursor_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_list_coffee_small_filled.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_list_coffee_small_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_bean_half_filled.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\coffee_bean_half_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_list_coffee_small_empty.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_list_coffee_small_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_bean_small_half_filled.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\coffee_bean_small_half_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_list_coffee_empty.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_list_coffee_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_coffee_add.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_coffee_add.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_list_coffee_small_half_filled.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_list_coffee_small_half_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_host.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\layout\\activity_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingbar_list_coffee_filled.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\drawable\\ratingbar_list_coffee_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\eeceb3da10a58c76df0ec672fd1b23e4\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_list_fragment.xml.flat",
+        "source": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\src\\main\\res\\layout\\main_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W14F_Coach Marks-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\R\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1e43c58c801428712e65f92c4116ddba\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

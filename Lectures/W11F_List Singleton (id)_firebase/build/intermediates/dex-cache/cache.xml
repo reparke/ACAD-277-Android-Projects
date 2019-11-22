@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_ad23d38d0a450872129d88c7e2772e8c2adb77d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_b54d09d5e162451900db4b6ee2808d2e350c5872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_f4e1d7497b18295d51a6a0032bf6acd50765e0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_b8b101b92e94f5f62a66a87fd18a52f37801d6f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_93a2294777f1f877af172870e7ff5a60f6669c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_f097035ddb89a1b463b6ca501f6603a23b5bdf7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_1c3fabdc672b097d7a9df82dfdd2c2d25c55a50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_23b02d769eb7d0451bbec488276d402fdf34059f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_4b31c6aae902bf0cfa2bc3de9c857ac108a2ea0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_b41215771fd4f08fa3eb9fcb7624c7079bab8b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_413d37049a24ebc6a8f5d2042e0e4f8d94b4b949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_904fad4562bbf21d6aa8d80e46ac61ef6ff8f72f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_ad599deee41f404b27b8daf669c32907c567baff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_b4b0a1491e48e54a0a1e19e60c8b7848c8090eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_b84e5ae7fcb1733d97241b553fd10674dbd70765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_dff79108f830840ed7157899074e4a9ece77144b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_b82452b96ae8a19460be42b67cf85f7cd45d3d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_1e14fb748fe3e2d47d42e85fcd828e7d53448ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_e63d02256a935c53e0a27edfc1eac184f90148bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_8f9e511cfa09d0dbc7aed05994b995aedddfffc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_2cc741dd99c174d7f44b43ca1441e2dd184979fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_331377222938cbaf7e2f0601777c7c5bd8a74312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_3ffac525fafed5108931cf17002d555d27665269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_6a54d1ce5d028cec47431b90d83537d543207b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_6ef1e631b8b22849f3523dcbae511fa264355394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_302d8926ca40c44939b5b94d4bb9f6dc4a5b2cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_4d3b2f265d949c292c9709b8f30a6389609f256e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_358ef4478ba133d56a0113757f624af2c8dc00bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W9F_List Singleton (id)_firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_4eb5ba07b3b7b3d6512883b6eff1b1adde3db19b.jar" />
+    </item>
+
+</items>

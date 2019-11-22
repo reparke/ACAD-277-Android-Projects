@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">w6 butttons</string>
+    <string name="label_favorite_foods">What are your favorite food?</string>
+    <string name="label_add_food">Add Food</string>
+    <string name="label_here_are_foods">Here are the foods</string>
+    <string name="label_greeting">Welcome to Food Tracker</string>
+
+</resources>

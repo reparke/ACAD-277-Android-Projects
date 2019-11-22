@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Πίτσα</string>
+    <string name="label_specials">δωρεάν Προσφορές</string>
+    <string name="label_num_pizzas">Αριθμός Πίτσες</string>
+    <string name="label_small">μικρό</string>
+    <string name="label_medium">Μεσαίο</string>
+    <string name="label_large">μεγάλο</string>
+
+    <string name="label_pepperoni">πεπερόνι</string>
+    <string name="label_pineappple">ανανάς</string>
+    <string name="label_tofu">tofu</string>
+    <string name="label_toppings">Επικάλυψη</string>
+    <string name="label_size">Μέγεθος</string>
+    <string name="label_order_summary">Σύνοψη Παραγγελίας</string>
+    <string name="label_name">Ονομα</string>
+    <string name="label_hint_name">Εισάγετε το όνομά σας</string>
+
+
+
+</resources>

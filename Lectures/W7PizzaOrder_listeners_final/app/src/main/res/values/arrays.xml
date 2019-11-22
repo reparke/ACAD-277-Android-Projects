@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="label_array_specials">
+        <item>κανένας</item>
+        <item>φτερούγες κοτόπουλου</item>
+        <item>μικρή σαλάτα</item>
+    </string-array>
+
+</resources>

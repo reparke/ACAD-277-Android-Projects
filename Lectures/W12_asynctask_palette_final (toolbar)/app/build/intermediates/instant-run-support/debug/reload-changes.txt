@@ -1,0 +1,4 @@
+CHANGED,C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\week11F_asynctask_palette_final\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\week11F_asynctask_palette_final\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\itp341\exercises\asynctask_palette\MainActivity$override.class
+CHANGED,C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\week11F_asynctask_palette_final\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\itp341\exercises\asynctask_palette\Fragment_Palette$override.class
+CHANGED,C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\week11F_asynctask_palette_final\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\itp341\exercises\asynctask_palette\R$id$override.class

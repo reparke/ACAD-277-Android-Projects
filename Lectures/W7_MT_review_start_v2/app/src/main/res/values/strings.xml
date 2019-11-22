@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">midterm review</string>
+
+    <string name="label_vote_for_shiba_idol">Vote for Shiba Idol</string>
+    <string name="label_default_pirate_speak">Arrrrrrgh!</string>
+    <string name="label_default_wolf_speak">Hooooooowl!</string>
+    <string name="label_votes">Votes</string>
+    <string name="label_choose_wisely">Choose Wisely</string>
+    <string name="label_pirate">Pirate</string>
+    <string name="label_wolf">Wolf</string>
+    <string name="label_what_does_he_say">What does he say?</string>
+</resources>

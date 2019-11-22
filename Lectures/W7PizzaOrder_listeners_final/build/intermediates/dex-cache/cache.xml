@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_38aceccfd227953299202e1061010a8c407b7ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6494aa97f45dc77fa3be0175999361cebd35b4dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_da48e835481a4752c0ecc22d94d099bf8abae880.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_703f1ea08d4c1ac4adb84bc6904e9021779e2115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_4cf279eb2786f464a855104b63549f9b88c2f6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_43be8b52843f79f8d8b41c6aa240ecaf6e0b7a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a014ab5b00d8a046946f849d45152554de8b3eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_4585ca50b0356e893bc00c6494ab7c9076eddf0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_1c1b624cb3949cc21c64357b2c37ce341b184d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_44fce2d67268585f57c423b661fc0a5544d8bbea.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_4cf279eb2786f464a855104b63549f9b88c2f6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_38aceccfd227953299202e1061010a8c407b7ead.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_475da87e21e13454322ecd14bd9beaf7579e882a.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_eac41d179d5895d62b49bcf292c3f523b83ac81f.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a014ab5b00d8a046946f849d45152554de8b3eb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_43be8b52843f79f8d8b41c6aa240ecaf6e0b7a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b50c5810425581955461bc943a185e3a34652153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_1c1b624cb3949cc21c64357b2c37ce341b184d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_9748cc49df3055d4b65f0ae467c7e567ebadc416.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_85dbb540c878c9883ebd2675429e3439e15f20cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6494aa97f45dc77fa3be0175999361cebd35b4dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_85dbb540c878c9883ebd2675429e3439e15f20cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_eac41d179d5895d62b49bcf292c3f523b83ac81f.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b50c5810425581955461bc943a185e3a34652153.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_9748cc49df3055d4b65f0ae467c7e567ebadc416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_da48e835481a4752c0ecc22d94d099bf8abae880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_703f1ea08d4c1ac4adb84bc6904e9021779e2115.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_4585ca50b0356e893bc00c6494ab7c9076eddf0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_475da87e21e13454322ecd14bd9beaf7579e882a.jar" />
+    </item>
+    <item
+        jar="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\R\Dropbox (uscItp)\_ITP 341\_Projects\_Lectures\W4PizzaOrder_final - Copy\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_44fce2d67268585f57c423b661fc0a5544d8bbea.jar" />
+    </item>
+
+</items>

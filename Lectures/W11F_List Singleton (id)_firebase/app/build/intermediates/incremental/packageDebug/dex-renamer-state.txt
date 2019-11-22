@@ -1,0 +1,4 @@
+#Sun Mar 19 14:13:44 PDT 2017
+base.0=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W9F_List Singleton (id)_firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\R\\Dropbox (uscItp)\\_ITP 341\\_Projects\\_Lectures\\W9F_List Singleton (id)_firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
